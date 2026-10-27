@@ -1,0 +1,380 @@
+[
+  {
+    "name": "9router",
+    "url": "https://github.com/thupeshkumar/9router",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "Agent-Reach",
+    "url": "https://github.com/thupeshkumar/Agent-Reach",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "AI-For-Beginners",
+    "url": "https://github.com/thupeshkumar/AI-For-Beginners",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "ai-job-search",
+    "url": "https://github.com/thupeshkumar/ai-job-search",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "AWS-CertificationPracticeExams",
+    "url": "https://github.com/thupeshkumar/AWS-CertificationPracticeExams",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "AWS-GCP-Azure-Cloud-Projects-Workshop",
+    "url": "https://github.com/thupeshkumar/AWS-GCP-Azure-Cloud-Projects-Workshop",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "AZ-900-Azure-Fundamentals-Study-Guide-and-References-Compilation-by-Jonah-Andersson",
+    "url": "https://github.com/thupeshkumar/AZ-900-Azure-Fundamentals-Study-Guide-and-References-Compilation-by-Jonah-Andersson",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "AZ-900-notes",
+    "url": "https://github.com/thupeshkumar/AZ-900-notes",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "AzureDevOps-Zero-to-Hero",
+    "url": "https://github.com/thupeshkumar/AzureDevOps-Zero-to-Hero",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "Blue-green-Deployment",
+    "url": "https://github.com/thupeshkumar/Blue-green-Deployment",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "career-ops",
+    "url": "https://github.com/thupeshkumar/career-ops",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "cka-certification-guide",
+    "url": "https://github.com/thupeshkumar/cka-certification-guide",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "cloud-projects",
+    "url": "https://github.com/thupeshkumar/cloud-projects",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "devops-exercises",
+    "url": "https://github.com/thupeshkumar/devops-exercises",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "devops-interview-prep",
+    "url": "https://github.com/thupeshkumar/devops-interview-prep",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "DevOps-Interview-Questions",
+    "url": "https://github.com/thupeshkumar/DevOps-Interview-Questions",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "DevOps-Project-Two-Tier-Flask-App",
+    "url": "https://github.com/thupeshkumar/DevOps-Project-Two-Tier-Flask-App",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "devops-projects",
+    "url": "https://github.com/thupeshkumar/devops-projects",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "DevOps-Roadmap",
+    "url": "https://github.com/thupeshkumar/DevOps-Roadmap",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "diagram-design",
+    "url": "https://github.com/thupeshkumar/diagram-design",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "E-CommerceStore",
+    "url": "https://github.com/thupeshkumar/E-CommerceStore",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "elk-setup",
+    "url": "https://github.com/thupeshkumar/elk-setup",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "flask_Practice",
+    "url": "https://github.com/thupeshkumar/flask_Practice",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "floci",
+    "url": "https://github.com/thupeshkumar/floci",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "free-for-dev",
+    "url": "https://github.com/thupeshkumar/free-for-dev",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "HeroVired_Capstone_MultiCloudDeploymentAndManagment",
+    "url": "https://github.com/thupeshkumar/HeroVired_Capstone_MultiCloudDeploymentAndManagment",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "kubernetes",
+    "url": "https://github.com/thupeshkumar/kubernetes",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "kubernetes-learning-path",
+    "url": "https://github.com/thupeshkumar/kubernetes-learning-path",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "kubernetes-projects",
+    "url": "https://github.com/thupeshkumar/kubernetes-projects",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "kubesphere",
+    "url": "https://github.com/thupeshkumar/kubesphere",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "lambda",
+    "url": "https://github.com/thupeshkumar/lambda",
+    "fork": false,
+    "default_branch": "main",
+    "reviewed_tree_sha": "f1da6f10f76901ebe80fef395062bd3f1c4a31dd"
+  },
+  {
+    "name": "learning-cloud-development-on-dotnet-azure-devops",
+    "url": "https://github.com/thupeshkumar/learning-cloud-development-on-dotnet-azure-devops",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "linux-foundation-coupon",
+    "url": "https://github.com/thupeshkumar/linux-foundation-coupon",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "Meghamittal0920",
+    "url": "https://github.com/thupeshkumar/Meghamittal0920",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "mern-aks",
+    "url": "https://github.com/thupeshkumar/mern-aks",
+    "fork": false,
+    "default_branch": "main",
+    "reviewed_tree_sha": "2a62893819c0f250992dada91d34ec44a9f11ab6"
+  },
+  {
+    "name": "mern-terraform-ansible",
+    "url": "https://github.com/thupeshkumar/mern-terraform-ansible",
+    "fork": false,
+    "default_branch": "main",
+    "reviewed_tree_sha": "c3d63f596512e62be7b0092d9b7743f2d87da250"
+  },
+  {
+    "name": "Mern_Deployment",
+    "url": "https://github.com/thupeshkumar/Mern_Deployment",
+    "fork": false,
+    "default_branch": "main",
+    "reviewed_tree_sha": "c0ed6179462984a1698adf54967af2c16048f729"
+  },
+  {
+    "name": "micro-service",
+    "url": "https://github.com/thupeshkumar/micro-service",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "Microservices-Task",
+    "url": "https://github.com/thupeshkumar/Microservices-Task",
+    "fork": false,
+    "default_branch": "main",
+    "reviewed_tree_sha": "13aac89aa28eb2a4afb8249a63e48d91073d686b"
+  },
+  {
+    "name": "multi-cloud-capstone",
+    "url": "https://github.com/thupeshkumar/multi-cloud-capstone",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "multi-cloud-project",
+    "url": "https://github.com/thupeshkumar/multi-cloud-project",
+    "fork": false,
+    "default_branch": "main",
+    "reviewed_tree_sha": "22ea3bf691ef38a9b4c96c61528aab7fee1c662e"
+  },
+  {
+    "name": "multi-cloud-setup",
+    "url": "https://github.com/thupeshkumar/multi-cloud-setup",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "multi-cloud-terraform",
+    "url": "https://github.com/thupeshkumar/multi-cloud-terraform",
+    "fork": false,
+    "default_branch": "main",
+    "reviewed_tree_sha": "737d88098f8b5e58441ecd9d2140fa26b798a940"
+  },
+  {
+    "name": "MultienvApp",
+    "url": "https://github.com/thupeshkumar/MultienvApp",
+    "fork": false,
+    "default_branch": "main",
+    "reviewed_tree_sha": "504d432f059b687718a71620752a1b9967703f2e"
+  },
+  {
+    "name": "omniget",
+    "url": "https://github.com/thupeshkumar/omniget",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "openclaude",
+    "url": "https://github.com/thupeshkumar/openclaude",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "OpenViking",
+    "url": "https://github.com/thupeshkumar/OpenViking",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "shopNow",
+    "url": "https://github.com/thupeshkumar/shopNow",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "StreamingApp",
+    "url": "https://github.com/thupeshkumar/StreamingApp",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "Terraform-Multi-Cloud",
+    "url": "https://github.com/thupeshkumar/Terraform-Multi-Cloud",
+    "fork": true,
+    "default_branch": "master",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "thupeshkumar",
+    "url": "https://github.com/thupeshkumar/thupeshkumar",
+    "fork": false,
+    "default_branch": "main",
+    "reviewed_tree_sha": "e491183956c401e68ae9d0ae988b6563532b5975"
+  },
+  {
+    "name": "Travelapp",
+    "url": "https://github.com/thupeshkumar/Travelapp",
+    "fork": false,
+    "default_branch": "master",
+    "reviewed_tree_sha": "77c604314a44a1f4369f75aacd06e1054d28009b"
+  },
+  {
+    "name": "TravelMemory",
+    "url": "https://github.com/thupeshkumar/TravelMemory",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  },
+  {
+    "name": "Unlimited-OCR",
+    "url": "https://github.com/thupeshkumar/Unlimited-OCR",
+    "fork": true,
+    "default_branch": "main",
+    "reviewed_tree_sha": null
+  }
+]
